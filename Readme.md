@@ -53,7 +53,7 @@ This project provides an Exploratory Data Analysis (EDA) of job postings data fr
 ## Usage
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/nyc-jobs-eda.git
+   git clone https://github.com/zaidzr3/EDA_Python.git
    ```
 
 2. **Run the Jupyter Notebook**:
